@@ -28,3 +28,4 @@ hs_err_pid*
 /jpa-hibernate/target
 /spring-hibernate-jpa/target
 /springdata-jpa-demo/target
+/springdata-mongodb/target
